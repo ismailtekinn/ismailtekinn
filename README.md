@@ -13,7 +13,7 @@ Web Developer
 
 ## I'm currently working on 🔭
 
-<a href="https://github.com/ismailtekinn/MyRestaurantUI">Botanic Servic</a> for practice
+<a href="https://github.com/ismailtekinn/MyRestaurantUI">Botanic Servic</a> 
 
 ## I'am currently learning on 🌱
 

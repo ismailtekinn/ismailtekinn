@@ -1,5 +1,3 @@
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fskarakayaa.skarakayaa%2Freadme)
-
 ### Welcome My GitHub Page 👋
 
 <span>I am İsmail Tekin. I live in Konya,Turkey.</span><br><br>

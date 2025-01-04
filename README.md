@@ -7,11 +7,11 @@
 ## Education 🏢
 Tokat Gaizosmanpaşa Universty
 ## Job 🏢
-Web Developer
+Full Stack Web&Mobil Developer
 
 ## I'm currently working on 🔭
 
-<a href="https://github.com/ismailtekinn/MyRestaurantUI">Botanic Servic</a> 
+<a href="http://www.innobi.tech/">innobi - Innovative Business Intelligence</a> 
 
 ## I'am currently learning on 🌱
 

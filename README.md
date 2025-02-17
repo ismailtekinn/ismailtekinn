@@ -1,65 +1,60 @@
-### Welcome My GitHub Page 👋
+<h1 align="center">Welcome to My GitHub Page 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismailtekinn&label=Profile%20Views&color=0e75b6&style=flat" alt="ismailtekinn" />
+</p>
 
-<span>I am İsmail Tekin. I live in Konya,Turkey.</span><br><br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ismailtekinn&show_icons=true&theme=radical">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtekinn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Education 🏢
-Tokat Gaizosmanpaşa Universty
-## Job 🏢
-Full Stack Web&Mobil Developer
+## 👨‍💻 About Me 
+Hi, I'm İsmail Tekin! I live in Konya, Turkey. I am a Full Stack Web & Mobile Developer with a passion for building scalable and user-friendly applications.
 
-## I'm currently working on 🔭
+- 🎓 Studying Computer Engineering at Tokat Gaziosmanpaşa University
+- 💼 Currently working at [innobi - Innovative Business Intelligence](http://www.innobi.tech/)
+- 🌱 Currently learning: [Reactivities](https://github.com/ismailtekinn/Reactivities) & [Crwn Cloth Shop](https://github.com/ismailtekinn/crwn-clothing)
+- 💬 Ask me about: **DotNetCore, React**
 
-<a href="http://www.innobi.tech/">innobi - Innovative Business Intelligence</a> 
+---
 
-## I'am currently learning on 🌱
+## 🔧 Tech Stack
+### Know / Using
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<a href="https://github.com/ismailtekinn/Reactivities">Reactivities</a> and <a href="https://github.com/ismailtekinn/crwn-clothing">Crwn Cloth Shop</a>
+### Learn / Progress / Interesting
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## Know / Using 🧠
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"/></a></code>
-<code><a><img height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"/></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/></a></code>
-<code><a><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/></a></code>
+- CQRS
+- Mediator Pattern
 
-## Learn / Progress / Interesting 🧪📖
-<code><a><img height="50" src="https://cdn.worldvectorlogo.com/logos/mobx.svg"></a></code>
-<code><a><img height="50" src="https://www.tc-web.it/wp-content/uploads/2019/12/TypeScript-logo.png"/></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png"/></a></code>
+---
 
-  -CQRS
+## 📊 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailtekinn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtekinn&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-  -Mediator Pattern
-  
-## Ask me about 💬
-  
-  -DotNetCore
-  
-  -React
-  
-## How to reach me 📫
+---
 
-You can find and get touch with me on these accounts!
-
+## 📫 How to Reach Me 
 [![Linkedin Badge](https://img.shields.io/badge/ismailtekin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail-tekin-63aba61a5/)
 [![Instagram Badge](https://img.shields.io/badge/ismailtekin-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mr.smilee_42/)
 
+---
+
+## 🌟 Fun Fact
+- I love solving problems and learning new things!
+- Passionate about working on innovative projects with talented teams.
+
+---
+
 <!--
 **ismailtekinn/ismailtekinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

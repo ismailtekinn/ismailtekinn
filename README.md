@@ -44,7 +44,7 @@ Hi, I'm İsmail Tekin! I live in Konya, Turkey. I am a Full Stack Web & Mobile D
 ---
 
 ## 📫 How to Reach Me 
-[![Linkedin Badge](https://img.shields.io/badge/ismailtekin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismail-tekin-63aba61a5/)
+[![Linkedin Badge](https://www.linkedin.com/in/ismail-tekin-38b40b1a5/)
 [![Instagram Badge](https://img.shields.io/badge/ismailtekin-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/mr.smilee_42/)
 
 ---

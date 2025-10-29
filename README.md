@@ -9,7 +9,7 @@
 Hi, I'm İsmail Tekin! I live in Konya, Turkey. I am a Full Stack Web & Mobile Developer with a passion for building scalable and user-friendly applications.
 
 - 🎓 Studying Computer Engineering at Tokat Gaziosmanpaşa University
-- 💼 Currently working at [innobi - Innovative Business Intelligence](http://www.innobi.tech/)
+- 💼 Currently working at [Tercih Bilişim Teknolojileri Ltd. Şti.](https://www.triaeczane.com/tr)
 - 🌱 Currently learning: [Reactivities](https://github.com/ismailtekinn/Reactivities) & [Crwn Cloth Shop](https://github.com/ismailtekinn/crwn-clothing)
 - 💬 Ask me about: **DotNetCore, React**
 

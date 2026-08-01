@@ -1,58 +1,79 @@
-<h1 align="center">Welcome to My GitHub Page 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismailtekinn&label=Profile%20Views&color=0e75b6&style=flat" alt="ismailtekinn" />
-</p>
+<div align="center">
+
+# İsmail Tekin
+
+### Full Stack Developer
+
+**.NET · React · TypeScript · Mobile · Backend**
+
+<br />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ismailtekinn&label=Profile%20Views&color=555555&style=flat-square)](https://github.com/ismailtekinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-555555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-tekin-38b40b1a5/)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me 
-Hi, I'm İsmail Tekin! I live in Konya, Turkey. I am a Full Stack Web & Mobile Developer with a passion for building scalable and user-friendly applications.
+## About
 
-- 🎓 Studying Computer Engineering at Tokat Gaziosmanpaşa University
-- 💼 Currently working at [Tercih Bilişim Teknolojileri Ltd. Şti.](https://www.triaeczane.com/tr)
-- 🌱 Currently learning: [Reactivities](https://github.com/ismailtekinn/Reactivities) & [Crwn Cloth Shop](https://github.com/ismailtekinn/crwn-clothing)
-- 💬 Ask me about: **DotNetCore, React**
+I'm **İsmail Tekin**, a Computer Engineer and Full Stack Developer based in Türkiye.
 
----
+I build web and mobile applications with a focus on backend architecture, API design, database systems and practical solutions for real-world business processes.
 
-## 🔧 Tech Stack
-### Know / Using
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+My main development stack is **ASP.NET Core, C#, React and TypeScript**.
 
-### Learn / Progress / Interesting
-![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-- CQRS
-- Mediator Pattern
+I also have experience working with mobile sales systems, offline-first applications, POS devices, barcode systems, receipt printers and Linux-based deployment environments.
 
 ---
 
-## 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailtekinn&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtekinn&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## What I Work With
+
+**Backend**
+
+`C#` `ASP.NET Core` `Entity Framework Core` `REST API` `JWT` `LINQ`
+
+**Frontend**
+
+`React` `TypeScript` `JavaScript` `Redux` `Tailwind CSS`
+
+**Mobile**
+
+`React Native`
+
+**Database**
+
+`SQL Server` `PostgreSQL` `Prisma`
+
+**Architecture**
+
+`Clean Architecture` `CQRS` `Mediator` `Repository` `Unit of Work`
+
+**Infrastructure**
+
+`Linux` `Git` `GitHub` `Docker` `Nginx` `VPS`
+
+**Testing**
+
+`Playwright` `Unit Testing` `Integration Testing`
 
 ---
 
-## 📫 How to Reach Me 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-tekin-38b40b1a5/)
----
+## Engineering
 
-## 🌟 Fun Fact
-- I love solving problems and learning new things!
-- Passionate about working on innovative projects with talented teams.
+I am interested in building systems that are not only functional, but also maintainable and production-ready.
 
----
-
-<!--
-**ismailtekinn/ismailtekinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+```text
+Architecture
+    ↓
+Business Logic
+    ↓
+Data Access
+    ↓
+Database
+    ↓
+API
+    ↓
+Client
+    ↓
+Deployment
